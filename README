@@ -1,0 +1,2 @@
+Some simple python scripts to print times tables and number bonds questions from the command line.
+Not portable, cos it uses lpr.  Works with my Rpi.
